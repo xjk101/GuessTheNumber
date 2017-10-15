@@ -1,0 +1,6 @@
+c:\users\xander\documents\visual studio 2017\Projects\GuessTheNumberUpdateSolution\GuessTheNumberUpdate\bin\Debug\GuessTheNumberUpdate.exe.config
+c:\users\xander\documents\visual studio 2017\Projects\GuessTheNumberUpdateSolution\GuessTheNumberUpdate\bin\Debug\GuessTheNumberUpdate.exe
+c:\users\xander\documents\visual studio 2017\Projects\GuessTheNumberUpdateSolution\GuessTheNumberUpdate\bin\Debug\GuessTheNumberUpdate.pdb
+c:\users\xander\documents\visual studio 2017\Projects\GuessTheNumberUpdateSolution\GuessTheNumberUpdate\obj\Debug\GuessTheNumberUpdate.csprojResolveAssemblyReference.cache
+c:\users\xander\documents\visual studio 2017\Projects\GuessTheNumberUpdateSolution\GuessTheNumberUpdate\obj\Debug\GuessTheNumberUpdate.exe
+c:\users\xander\documents\visual studio 2017\Projects\GuessTheNumberUpdateSolution\GuessTheNumberUpdate\obj\Debug\GuessTheNumberUpdate.pdb
